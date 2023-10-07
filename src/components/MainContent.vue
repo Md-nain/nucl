@@ -130,7 +130,7 @@
                 <img src="../static/images/icons/strategy-vault-icon.png" alt="icon">
               </div>
               <div class="heading">
-                <h3>Strategies Valts</h3>
+                <h3>Strategies Vaults</h3>
               </div>
               <div class="text">
                 <p>Delta-neutral, Sustainable, LST APY enhanced by DeFi Ecosystem.</p>
@@ -238,7 +238,7 @@
             <div class="col-12 col-md-7 card-block text-end">
               <div class="block-content mx-0">
                 <div class="block-title mb-2 mb-md-2" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="600">
-                  <h2>Strategies Valt</h2>
+                  <h2>Strategies Vault</h2>
                 </div>
                 <!-- Statistics Card -->
                 <div class="statistics-card graphic-badged-card" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="700">
