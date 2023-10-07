@@ -457,8 +457,8 @@
       </div>
     </section>
 
-     <!-- Section -->
-     <section class="section">
+     <!-- Partners Section -->
+     <section class="section d-none">
       <div class="container">
          <!--title area-->
          <div class="section-title py-1 text-center" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="1800">
@@ -519,7 +519,8 @@
           
         </div>
       </div>
-     </section>
+    </section>
+     
 </template>
 <script>
 import { Swiper, SwiperSlide } from 'swiper/vue';
